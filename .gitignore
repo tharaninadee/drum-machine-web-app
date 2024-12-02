@@ -22,6 +22,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Ignore .gitignore itself
 .gitignore
-/src/index.js
+
+# Ignore src/index.js
+src/index.js
+
 
