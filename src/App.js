@@ -1,6 +1,8 @@
 import React from "react";
-import { FaSun, FaMoon, FaVolumeUp, FaVolumeMute, FaVolumeDown } from "react-icons/fa"; // Icon library
+import { FaSun, FaMoon, FaVolumeUp, FaVolumeMute, FaVolumeDown } from "react-icons/fa"; 
 import "./index.css";
+
+
 
 class Drum extends React.Component {
   constructor(props) {
