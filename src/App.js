@@ -10,7 +10,7 @@ class Drum extends React.Component {
     this.state = {
       display: "Ready to Jam!",
       volume: 0.5,
-      theme: "dark", // Theme state
+      theme: "dark", 
     };
     this.handleKeyPress = this.handleKeyPress.bind(this);
     this.handleClick = this.handleClick.bind(this);
