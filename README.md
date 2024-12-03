@@ -17,7 +17,7 @@ A simple, interactive drum machine built using **React**. This project allows us
 
 - **Frontend**: React, HTML, CSS
 - **Styling**: Responsive layout with modern CSS
-- **Version Control**: Git and GitHub
+
 
 ---
 
